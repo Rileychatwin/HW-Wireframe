@@ -1,0 +1,42 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'arial', 'helvetica neu', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    background: #777;
+    width: 960px;
+}
+
+header {
+    background: #ebebeb;
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+}
+
+h1 {
+    background: #ebebeb;
+}
+
+nav {
+    background: #ebebeb;
+    text-align: center;
+    height: 100px;
+    margin: 25px;
+}
+
+footer {
+    background: #ebebeb;
+    text-align: center;
+}
+
+article {
+    color: #ebebeb;
+    background: #777;
+}
+
+.container {
+    width: 124px;
+    margin: 0%;
+}
